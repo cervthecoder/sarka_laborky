@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  5 SEP 2021 14:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  5 SEP 2021 14:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/matej/Desktop/sarka_laborky/uloha_4/protokol_4.tex
-(/Users/matej/Desktop/sarka_laborky/uloha_4/protokol_4.tex
+**/Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.tex
+(/Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -753,6 +753,13 @@ Package: enumitem 2019/02/04 v3.8 Customized lists
 \enit@inbox=\box70
 \enit@count@id=\count295
 \enitdp@description=\count296
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count297
+\float@exts=\toks37
+\float@box=\box71
+\@float@everytoks=\toks38
+\@floatcapt=\box72
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@headwidth=\skip62
@@ -777,17 +784,11 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \caption@parindent=\dimen307
 \caption@hangindent=\dimen308
 )
-\c@caption@flags=\count297
-\c@ContinuedFloat=\count298
+\c@caption@flags=\count298
+\c@ContinuedFloat=\count299
+Package caption Info: float package is loaded.
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count299
-\float@exts=\toks37
-\float@box=\box71
-\@float@everytoks=\toks38
-\@floatcapt=\box72
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 \c@tracingmulticols=\count300
@@ -841,8 +842,8 @@ Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 LaTeX Warning: Unused global option(s):
     [13pt].
 
-(/Users/matej/Desktop/sarka_laborky/uloha_4/protokol_4.aux)
-\openout1 = `protokol_4.aux'.
+(/Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.aux)
+\openout1 = `protokol_9.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -944,27 +945,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-<uloha_4_tab_1.png, id=4, 599.23875pt x 201.75375pt>
-File: uloha_4_tab_1.png Graphic file (type png)
-<use uloha_4_tab_1.png>
-Package pdftex.def Info: uloha_4_tab_1.png  used on input line 44.
-(pdftex.def)             Requested size: 505.89pt x 170.3278pt.
-
-Overfull \hbox (43.36243pt too wide) in paragraph at lines 44--45
- [][] 
- []
-
-<uloha_4_tab_2.png, id=6, 599.23875pt x 243.91125pt>
-File: uloha_4_tab_2.png Graphic file (type png)
-<use uloha_4_tab_2.png>
-Package pdftex.def Info: uloha_4_tab_2.png  used on input line 52.
-(pdftex.def)             Requested size: 505.89pt x 205.9187pt.
-
-Overfull \hbox (43.36243pt too wide) in paragraph at lines 52--53
- [][] 
- []
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -974,39 +955,40 @@ This may cause the page layout to be inconsistent, however.
 
 [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- </Users/matej/Desktop/sarka_laborky/uloha_4/uloha_4_tab_1.png>]
-<uloha_4_tab_3.png, id=17, 613.29124pt x 238.8925pt>
-File: uloha_4_tab_3.png Graphic file (type png)
-<use uloha_4_tab_3.png>
-Package pdftex.def Info: uloha_4_tab_3.png  used on input line 58.
-(pdftex.def)             Requested size: 505.89pt x 197.05957pt.
+]
+<uloha_9_tab_1.png, id=15, 600.2425pt x 737.75626pt>
+File: uloha_9_tab_1.png Graphic file (type png)
+<use uloha_9_tab_1.png>
+Package pdftex.def Info: uloha_9_tab_1.png  used on input line 76.
+(pdftex.def)             Requested size: 433.62pt x 532.974pt.
+<uloha_9_tab_2.png, id=17, 721.69624pt x 247.92625pt>
+File: uloha_9_tab_2.png Graphic file (type png)
+<use uloha_9_tab_2.png>
+Package pdftex.def Info: uloha_9_tab_2.png  used on input line 83.
+(pdftex.def)             Requested size: 433.62pt x 148.96118pt.
 
-Overfull \hbox (43.36243pt too wide) in paragraph at lines 58--59
- [][] 
- []
+Underfull \vbox (badness 2197) has occurred while \output is active []
 
-<teplota_tani_graf.png, id=18, 462.528pt x 346.896pt>
-File: teplota_tani_graf.png Graphic file (type png)
-<use teplota_tani_graf.png>
-Package pdftex.def Info: teplota_tani_graf.png  used on input line 65.
-(pdftex.def)             Requested size: 361.34999pt x 271.0277pt.
-
-Underfull \vbox (badness 5036) has occurred while \output is active []
-
- [2 </Users/matej/Desktop/sarka_laborky/uloha_4/uloha_4_tab_2.png> </Users/matej/Desktop/sarka_laborky/uloha_4/uloha_4_tab_3.png> </Users/matej/Desktop/sarka_laborky/uloha_4/teplota_tani_graf.png>] [3] (/Users/matej/Desktop/sarka_laborky/uloha_4/protokol_4.aux) ) 
+ [2 </Users/matej/Desktop/sarka_laborky/uloha_9/uloha_9_tab_1.png>]
+<uloha_9_tab_3.png, id=23, 721.69624pt x 247.92625pt>
+File: uloha_9_tab_3.png Graphic file (type png)
+<use uloha_9_tab_3.png>
+Package pdftex.def Info: uloha_9_tab_3.png  used on input line 91.
+(pdftex.def)             Requested size: 433.62pt x 148.96118pt.
+ [3 </Users/matej/Desktop/sarka_laborky/uloha_9/uloha_9_tab_2.png> </Users/matej/Desktop/sarka_laborky/uloha_9/uloha_9_tab_3.png>] (/Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.aux) ) 
 Here is how much of TeX's memory you used:
- 27281 strings out of 492616
- 539769 string characters out of 6129481
- 586956 words of memory out of 5000000
- 30852 multiletter control sequences out of 15000+600000
- 534301 words of font info for 31 fonts, out of 8000000 for 9000
+ 27294 strings out of 492616
+ 539819 string characters out of 6129481
+ 590828 words of memory out of 5000000
+ 30858 multiletter control sequences out of 15000+600000
+ 536959 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,12n,69p,483b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on /Users/matej/Desktop/sarka_laborky/uloha_4/protokol_4.pdf (3 pages, 119673 bytes).
+ 62i,12n,69p,483b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on /Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.pdf (3 pages, 235388 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
