@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  9 SEP 2021 13:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  14 SEP 2021 21:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/matej/Desktop/sarka_laborky/uloha_8/protokol_8.tex
-(/Users/matej/Desktop/sarka_laborky/uloha_8/protokol_8.tex
+**/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex
+(/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -22,20 +22,7 @@ File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-
-/Users/matej/Desktop/sarka_laborky/uloha_8/protokol_8.tex:1: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 ...mentclass[13pt, a4paper, twoside]{article}z
-                                                  
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
@@ -766,6 +753,13 @@ Package: enumitem 2019/02/04 v3.8 Customized lists
 \enit@inbox=\box70
 \enit@count@id=\count295
 \enitdp@description=\count296
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count297
+\float@exts=\toks37
+\float@box=\box71
+\@float@everytoks=\toks38
+\@floatcapt=\box72
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@headwidth=\skip62
@@ -777,13 +771,6 @@ Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@O@erf=\skip68
 \f@nch@O@olf=\skip69
 \f@nch@O@orf=\skip70
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count297
-\float@exts=\toks37
-\float@box=\box71
-\@float@everytoks=\toks38
-\@floatcapt=\box72
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
  (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
@@ -855,8 +842,8 @@ Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 LaTeX Warning: Unused global option(s):
     [13pt].
 
-(/Users/matej/Desktop/sarka_laborky/uloha_8/protokol_8.aux)
-\openout1 = `protokol_8.aux'.
+(/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.aux)
+\openout1 = `protokol_10.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -959,19 +946,6 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-<uloha_8_tab_1.png, id=4, 600.2425pt x 769.87625pt>
-File: uloha_8_tab_1.png Graphic file (type png)
-<use uloha_8_tab_1.png>
-Package pdftex.def Info: uloha_8_tab_1.png  used on input line 63.
-(pdftex.def)             Requested size: 469.75499pt x 602.53336pt.
-
-Overfull \hbox (7.22742pt too wide) in paragraph at lines 63--64
- [][] 
- []
-
-
-Overfull \vbox (93.80429pt too high) has occurred while \output is active []
-
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -981,49 +955,187 @@ This may cause the page layout to be inconsistent, however.
 
 [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-] [2 </Users/matej/Desktop/sarka_laborky/uloha_8/uloha_8_tab_1.png>]
-<uloha_8_tab_2.png, id=23, 600.2425pt x 468.75125pt>
-File: uloha_8_tab_2.png Graphic file (type png)
-<use uloha_8_tab_2.png>
-Package pdftex.def Info: uloha_8_tab_2.png  used on input line 68.
-(pdftex.def)             Requested size: 469.75499pt x 366.86188pt.
+]
+<tab_uloha10_1.png, id=14, 856.19875pt x 764.8575pt>
+File: tab_uloha10_1.png Graphic file (type png)
+<use tab_uloha10_1.png>
+Package pdftex.def Info: tab_uloha10_1.png  used on input line 58.
+(pdftex.def)             Requested size: 491.43622pt x 439.0077pt.
 
-Overfull \hbox (7.22742pt too wide) in paragraph at lines 68--69
+Overfull \hbox (28.90865pt too wide) in paragraph at lines 58--59
  [][] 
  []
 
-<teplota_cas.png, id=24, 462.528pt x 346.896pt>
-File: teplota_cas.png Graphic file (type png)
-<use teplota_cas.png>
-Package pdftex.def Info: teplota_cas.png  used on input line 73.
-(pdftex.def)             Requested size: 433.62pt x 325.23007pt.
-<uloha_8_tab_3.png, id=25, 602.25pt x 303.1325pt>
-File: uloha_8_tab_3.png Graphic file (type png)
-<use uloha_8_tab_3.png>
-Package pdftex.def Info: uloha_8_tab_3.png  used on input line 83.
-(pdftex.def)             Requested size: 469.75499pt x 236.45164pt.
+<tab_uloha10_2.png, id=16, 856.19875pt x 493.845pt>
+File: tab_uloha10_2.png Graphic file (type png)
+<use tab_uloha10_2.png>
+Package pdftex.def Info: tab_uloha10_2.png  used on input line 63.
+(pdftex.def)             Requested size: 491.43622pt x 283.45378pt.
 
-Overfull \hbox (7.22742pt too wide) in paragraph at lines 83--84
+Overfull \hbox (28.90865pt too wide) in paragraph at lines 63--65
  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3 </Users/matej/Desktop/sarka_laborky/uloha_8/uloha_8_tab_2.png> </Users/matej/Desktop/sarka_laborky/uloha_8/teplota_cas.png>] [4 </Users/matej/Desktop/sarka_laborky/uloha_8/uloha_8_tab_3.png>] [5] (/Users/matej/Desktop/sarka_laborky/uloha_8/protokol_8.aux) ) 
+ [2 </Users/matej/Desktop/sarka_laborky/uloha_10/tab_uloha10_1.png>]
+<tab_uloha10_3.png, id=22, 856.19875pt x 521.95pt>
+File: tab_uloha10_3.png Graphic file (type png)
+<use tab_uloha10_3.png>
+Package pdftex.def Info: tab_uloha10_3.png  used on input line 70.
+(pdftex.def)             Requested size: 491.43622pt x 299.5853pt.
+
+Overfull \hbox (28.90865pt too wide) in paragraph at lines 70--71
+ [][] 
+ []
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 84.
+
+/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex:84: Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.84 \end{align*}
+                 
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex:84: You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.84 \end{align*}
+                 
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \v invalid in math mode on input line 84.
+
+/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex:84: Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.84 \end{align*}
+                 
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex:84: You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.84 \end{align*}
+                 
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \v invalid in math mode on input line 84.
+
+/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex:84: Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.84 \end{align*}
+                 
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex:84: You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.84 \end{align*}
+                 
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex8!
+Missing character: There is no è in font cmex8!
+Missing character: There is no è in font cmex8!
+
+LaTeX Warning: Command \' invalid in math mode on input line 84.
+
+/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex:84: Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.84 \end{align*}
+                 
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex:84: You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.84 \end{align*}
+                 
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \v invalid in math mode on input line 84.
+
+/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex:84: Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.84 \end{align*}
+                 
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex:84: You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.84 \end{align*}
+                 
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \v invalid in math mode on input line 84.
+
+/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex:84: Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.84 \end{align*}
+                 
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex:84: You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.84 \end{align*}
+                 
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex8!
+Missing character: There is no è in font cmex8!
+Missing character: There is no è in font cmex8!
+[3 </Users/matej/Desktop/sarka_laborky/uloha_10/tab_uloha10_2.png> </Users/matej/Desktop/sarka_laborky/uloha_10/tab_uloha10_3.png>] (/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.aux) ) 
 Here is how much of TeX's memory you used:
  27299 strings out of 492616
- 539913 string characters out of 6129481
- 589829 words of memory out of 5000000
+ 539892 string characters out of 6129481
+ 588830 words of memory out of 5000000
  30862 multiletter control sequences out of 15000+600000
- 536959 words of font info for 40 fonts, out of 8000000 for 9000
+ 537296 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,13n,69p,670b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on /Users/matej/Desktop/sarka_laborky/uloha_8/protokol_8.pdf (5 pages, 172613 bytes).
+ 62i,12n,69p,960b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on /Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.pdf (3 pages, 275193 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 57 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
