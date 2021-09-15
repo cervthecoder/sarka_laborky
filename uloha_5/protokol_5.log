@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  13 AUG 2021 10:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  15 SEP 2021 22:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -745,14 +745,37 @@ Package: chemformula 2017/03/23 v4.15e typeset chemical compounds and reactions 
 \CF_substtoks=\toks35
 )
 Package: chemfig 2019/04/18 v1.4 Draw molecule with an easy syntax (CT)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count295
+\float@exts=\toks36
+\float@box=\box70
+\@float@everytoks=\toks37
+\@floatcapt=\box71
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen301
+\captionmargin@=\dimen302
+\captionwidth=\dimen303
+\caption@tempdima=\dimen304
+\caption@indent=\dimen305
+\caption@parindent=\dimen306
+\caption@hangindent=\dimen307
+)
+\c@caption@flags=\count296
+\c@ContinuedFloat=\count297
+Package caption Info: float package is loaded.
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/02/04 v3.8 Customized lists
 \labelindent=\skip61
-\enit@outerparindent=\dimen301
-\enit@toks=\toks36
-\enit@inbox=\box70
-\enit@count@id=\count295
-\enitdp@description=\count296
+\enit@outerparindent=\dimen308
+\enit@toks=\toks38
+\enit@inbox=\box72
+\enit@count@id=\count298
+\enitdp@description=\count299
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@headwidth=\skip62
@@ -768,29 +791,27 @@ Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 Package: setspace 2011/12/19 v6.7a set line spacing
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
-\c@tracingmulticols=\count297
-\mult@box=\box71
-\multicol@leftmargin=\dimen302
-\c@unbalance=\count298
-\c@collectmore=\count299
-\doublecol@number=\count300
-\multicoltolerance=\count301
-\multicolpretolerance=\count302
-\full@width=\dimen303
-\page@free=\dimen304
-\premulticols=\dimen305
-\postmulticols=\dimen306
+\c@tracingmulticols=\count300
+\mult@box=\box73
+\multicol@leftmargin=\dimen309
+\c@unbalance=\count301
+\c@collectmore=\count302
+\doublecol@number=\count303
+\multicoltolerance=\count304
+\multicolpretolerance=\count305
+\full@width=\dimen310
+\page@free=\dimen311
+\premulticols=\dimen312
+\postmulticols=\dimen313
 \multicolsep=\skip71
 \multicolbaselineskip=\skip72
-\partial@page=\box72
-\last@line=\box73
-\maxbalancingoverflow=\dimen307
-\mult@rightbox=\box74
-\mult@grightbox=\box75
-\mult@gfirstbox=\box76
-\mult@firstbox=\box77
-\@tempa=\box78
-\@tempa=\box79
+\partial@page=\box74
+\last@line=\box75
+\maxbalancingoverflow=\dimen314
+\mult@rightbox=\box76
+\mult@grightbox=\box77
+\mult@gfirstbox=\box78
+\mult@firstbox=\box79
 \@tempa=\box80
 \@tempa=\box81
 \@tempa=\box82
@@ -806,14 +827,16 @@ Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 \@tempa=\box92
 \@tempa=\box93
 \@tempa=\box94
-\c@columnbadness=\count303
-\c@finalcolumnbadness=\count304
-\last@try=\dimen308
-\multicolovershoot=\dimen309
-\multicolundershoot=\dimen310
-\mult@nat@firstbox=\box95
-\colbreak@box=\box96
-\mc@col@check@num=\count305
+\@tempa=\box95
+\@tempa=\box96
+\c@columnbadness=\count306
+\c@finalcolumnbadness=\count307
+\last@try=\dimen315
+\multicolovershoot=\dimen316
+\multicolundershoot=\dimen317
+\mult@nat@firstbox=\box97
+\colbreak@box=\box98
+\mc@col@check@num=\count308
 )
 
 LaTeX Warning: Unused global option(s):
@@ -822,24 +845,24 @@ LaTeX Warning: Unused global option(s):
 (/Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.aux)
 \openout1 = `protokol_5.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 17.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    ... okay on input line 17.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -849,15 +872,15 @@ LaTeX Font Info:    ... okay on input line 15.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(75.88371pt, 462.52757pt, 75.88371pt)
-* v-part:(T,H,B)=(75.88371pt, 860.01257pt, 75.88371pt)
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 867.24002pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=1011.78pt
-* \textwidth=462.52757pt
-* \textheight=860.01257pt
-* \oddsidemargin=3.61372pt
-* \evensidemargin=3.61372pt
-* \topmargin=-33.38628pt
+* \textwidth=469.75502pt
+* \textheight=867.24002pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -877,17 +900,17 @@ LaTeX Font Info:    ... okay on input line 15.
 
 ABD: EveryShipout initializing macros (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count306
-\scratchdimen=\dimen311
-\scratchbox=\box97
-\nofMPsegments=\count307
-\nofMParguments=\count308
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count309
-\MPscratchDim=\dimen312
-\MPnumerator=\count310
-\makeMPintoPDFobject=\count311
-\everyMPtoPDFconversion=\toks38
+\scratchcounter=\count309
+\scratchdimen=\dimen318
+\scratchbox=\box99
+\nofMPsegments=\count310
+\nofMParguments=\count311
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count312
+\MPscratchDim=\dimen319
+\MPnumerator=\count313
+\makeMPintoPDFobject=\count314
+\everyMPtoPDFconversion=\toks40
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
@@ -921,10 +944,23 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Overfull \hbox (9.75246pt too wide) in paragraph at lines 25--27
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+Overfull \hbox (2.52501pt too wide) in paragraph at lines 27--29
 []\OT1/cmr/m/n/12 Stanoven^^S^^Pm ob-sahu m^^Tedi v nezn^^Sam^^Sem pevn^^Sem ma-teri^^Salu iden-ti-fi-kujte, o ja-kou slou^^Tceninu
  []
 
+
+Overfull \hbox (10.42697pt too wide) in paragraph at lines 48--55
+\OT1/cmr/m/n/12 Bylo ozna^^Tceno p^^Tet 10ml odm^^Tern^^Sych ban^^Tek. Do p^^Tripraven^^Sych ban^^Tek bylo od-pi-pe-tov^^Sano spo^^Tc^^S^^Ptan^^Se
+ []
+
+<uloha_5_tab_1.png, id=4, 1126.2075pt x 215.80624pt>
+File: uloha_5_tab_1.png Graphic file (type png)
+<use uloha_5_tab_1.png>
+Package pdftex.def Info: uloha_5_tab_1.png  used on input line 58.
+(pdftex.def)             Requested size: 469.75499pt x 90.01563pt.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 18.09004pt.
@@ -933,20 +969,53 @@ This may cause the page layout to be inconsistent, however.
 
 [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-] (/Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.aux) ) 
+ </Users/matej/Desktop/sarka_laborky/uloha_5/uloha_5_tab_1.png>]
+<uloha_5_graf_1.png, id=20, 1223.57124pt x 740.7675pt>
+File: uloha_5_graf_1.png Graphic file (type png)
+<use uloha_5_graf_1.png>
+Package pdftex.def Info: uloha_5_graf_1.png  used on input line 73.
+(pdftex.def)             Requested size: 469.75499pt x 284.38818pt.
+<uloha_5_graf_2.png, id=21, 1374.13374pt x 832.10875pt>
+File: uloha_5_graf_2.png Graphic file (type png)
+<use uloha_5_graf_2.png>
+Package pdftex.def Info: uloha_5_graf_2.png  used on input line 80.
+(pdftex.def)             Requested size: 469.75499pt x 284.44955pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 </Users/matej/Desktop/sarka_laborky/uloha_5/uloha_5_graf_1.png>]
+<uloha_5_tab_2.png, id=26, 655.44875pt x 131.49126pt>
+File: uloha_5_tab_2.png Graphic file (type png)
+<use uloha_5_tab_2.png>
+Package pdftex.def Info: uloha_5_tab_2.png  used on input line 86.
+(pdftex.def)             Requested size: 469.75499pt x 94.23824pt.
+<uloha_5_tab_3.png, id=27, 653.44125pt x 105.39375pt>
+File: uloha_5_tab_3.png Graphic file (type png)
+<use uloha_5_tab_3.png>
+Package pdftex.def Info: uloha_5_tab_3.png  used on input line 87.
+(pdftex.def)             Requested size: 469.75499pt x 75.76602pt.
+<uloha_5_tab_4.png, id=28, 658.46pt x 257.96375pt>
+File: uloha_5_tab_4.png Graphic file (type png)
+<use uloha_5_tab_4.png>
+Package pdftex.def Info: uloha_5_tab_4.png  used on input line 93.
+(pdftex.def)             Requested size: 469.75499pt x 184.03723pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 </Users/matej/Desktop/sarka_laborky/uloha_5/uloha_5_graf_2.png> </Users/matej/Desktop/sarka_laborky/uloha_5/uloha_5_tab_2.png> </Users/matej/Desktop/sarka_laborky/uloha_5/uloha_5_tab_3.png> </Users/matej/Desktop/sarka_laborky/uloha_5/uloha_5_tab_4.png>] [4] (/Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.aux) ) 
 Here is how much of TeX's memory you used:
- 26105 strings out of 492616
- 518637 string characters out of 6129481
- 560902 words of memory out of 5000000
- 29692 multiletter control sequences out of 15000+600000
- 533847 words of font info for 29 fonts, out of 8000000 for 9000
+ 27309 strings out of 492616
+ 540141 string characters out of 6129481
+ 588789 words of memory out of 5000000
+ 30870 multiletter control sequences out of 15000+600000
+ 536959 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,12n,69p,483b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on /Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.pdf (1 page, 45338 bytes).
+ 62i,13n,69p,671b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on /Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.pdf (4 pages, 378953 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 69 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
