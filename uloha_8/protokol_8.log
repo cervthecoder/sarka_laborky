@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  9 SEP 2021 13:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  16 SEP 2021 11:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -22,20 +22,7 @@ File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-
-/Users/matej/Desktop/sarka_laborky/uloha_8/protokol_8.tex:1: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 ...mentclass[13pt, a4paper, twoside]{article}z
-                                                  
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
@@ -959,19 +946,6 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-<uloha_8_tab_1.png, id=4, 600.2425pt x 769.87625pt>
-File: uloha_8_tab_1.png Graphic file (type png)
-<use uloha_8_tab_1.png>
-Package pdftex.def Info: uloha_8_tab_1.png  used on input line 63.
-(pdftex.def)             Requested size: 469.75499pt x 602.53336pt.
-
-Overfull \hbox (7.22742pt too wide) in paragraph at lines 63--64
- [][] 
- []
-
-
-Overfull \vbox (93.80429pt too high) has occurred while \output is active []
-
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -981,46 +955,57 @@ This may cause the page layout to be inconsistent, however.
 
 [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-] [2 </Users/matej/Desktop/sarka_laborky/uloha_8/uloha_8_tab_1.png>]
-<uloha_8_tab_2.png, id=23, 600.2425pt x 468.75125pt>
-File: uloha_8_tab_2.png Graphic file (type png)
-<use uloha_8_tab_2.png>
-Package pdftex.def Info: uloha_8_tab_2.png  used on input line 68.
-(pdftex.def)             Requested size: 469.75499pt x 366.86188pt.
-
-Overfull \hbox (7.22742pt too wide) in paragraph at lines 68--69
- [][] 
- []
-
-<teplota_cas.png, id=24, 462.528pt x 346.896pt>
+]
+<teplota_cas.png, id=17, 462.528pt x 346.896pt>
 File: teplota_cas.png Graphic file (type png)
 <use teplota_cas.png>
-Package pdftex.def Info: teplota_cas.png  used on input line 73.
+Package pdftex.def Info: teplota_cas.png  used on input line 65.
 (pdftex.def)             Requested size: 433.62pt x 325.23007pt.
-<uloha_8_tab_3.png, id=25, 602.25pt x 303.1325pt>
-File: uloha_8_tab_3.png Graphic file (type png)
-<use uloha_8_tab_3.png>
-Package pdftex.def Info: uloha_8_tab_3.png  used on input line 83.
-(pdftex.def)             Requested size: 469.75499pt x 236.45164pt.
+<uloha_8_tab_1.png, id=19, 600.2425pt x 769.87625pt>
+File: uloha_8_tab_1.png Graphic file (type png)
+<use uloha_8_tab_1.png>
+Package pdftex.def Info: uloha_8_tab_1.png  used on input line 84.
+(pdftex.def)             Requested size: 469.75499pt x 602.53336pt.
 
-Overfull \hbox (7.22742pt too wide) in paragraph at lines 83--84
+Overfull \hbox (7.22742pt too wide) in paragraph at lines 84--85
  [][] 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1043) has occurred while \output is active []
 
- [3 </Users/matej/Desktop/sarka_laborky/uloha_8/uloha_8_tab_2.png> </Users/matej/Desktop/sarka_laborky/uloha_8/teplota_cas.png>] [4 </Users/matej/Desktop/sarka_laborky/uloha_8/uloha_8_tab_3.png>] [5] (/Users/matej/Desktop/sarka_laborky/uloha_8/protokol_8.aux) ) 
+ [2 </Users/matej/Desktop/sarka_laborky/uloha_8/teplota_cas.png>] [3 </Users/matej/Desktop/sarka_laborky/uloha_8/uloha_8_tab_1.png>]
+<uloha_8_tab_2.png, id=30, 600.2425pt x 468.75125pt>
+File: uloha_8_tab_2.png Graphic file (type png)
+<use uloha_8_tab_2.png>
+Package pdftex.def Info: uloha_8_tab_2.png  used on input line 89.
+(pdftex.def)             Requested size: 469.75499pt x 366.86188pt.
+
+Overfull \hbox (7.22742pt too wide) in paragraph at lines 89--90
+ [][] 
+ []
+
+<uloha_8_tab_3.png, id=31, 602.25pt x 303.1325pt>
+File: uloha_8_tab_3.png Graphic file (type png)
+<use uloha_8_tab_3.png>
+Package pdftex.def Info: uloha_8_tab_3.png  used on input line 95.
+(pdftex.def)             Requested size: 469.75499pt x 236.45164pt.
+
+Overfull \hbox (7.22742pt too wide) in paragraph at lines 95--96
+ [][] 
+ []
+
+[4 </Users/matej/Desktop/sarka_laborky/uloha_8/uloha_8_tab_2.png> </Users/matej/Desktop/sarka_laborky/uloha_8/uloha_8_tab_3.png>] [5] (/Users/matej/Desktop/sarka_laborky/uloha_8/protokol_8.aux) ) 
 Here is how much of TeX's memory you used:
  27299 strings out of 492616
  539913 string characters out of 6129481
- 589829 words of memory out of 5000000
+ 589828 words of memory out of 5000000
  30862 multiletter control sequences out of 15000+600000
  536959 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,13n,69p,670b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on /Users/matej/Desktop/sarka_laborky/uloha_8/protokol_8.pdf (5 pages, 172613 bytes).
+Output written on /Users/matej/Desktop/sarka_laborky/uloha_8/protokol_8.pdf (5 pages, 172809 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
