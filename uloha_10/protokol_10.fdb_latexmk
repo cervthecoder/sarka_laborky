@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1631733101 "/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex" "/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.pdf" "protokol_10" 1631733105
-  "/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.aux" 1631733105 68 b60d4aac83407227e643f08e02984f04 ""
-  "/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex" 1631733100 6962 2b2ff9c94df299c9e8a7e5455efe6b45 ""
-  "/dev/null" 1631733058 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1631908379 "/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex" "/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.pdf" "protokol_10" 1631908381
+  "/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.aux" 1631908381 68 b60d4aac83407227e643f08e02984f04 ""
+  "/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.tex" 1631908379 7278 972381df8223300a06c565d893f81dd5 ""
+  "/dev/null" 1631908343 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -165,14 +165,14 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1581599076 4259636 259c94f1b81288296801f3810ee66f0b ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "protokol_10.aux" 1631733105 68 b60d4aac83407227e643f08e02984f04 "pdflatex"
-  "protokol_10.tex" 1631733100 6962 2b2ff9c94df299c9e8a7e5455efe6b45 ""
+  "protokol_10.aux" 1631908381 68 b60d4aac83407227e643f08e02984f04 "pdflatex"
+  "protokol_10.tex" 1631908379 7278 972381df8223300a06c565d893f81dd5 ""
   "tab_uloha10_1.png" 1631648170 160073 1c05ebf2af6bc3efc32a48c061e6c8e2 ""
   "tab_uloha10_2.png" 1631648300 98331 2f33e302d6edf4d37115fd8e5584032e ""
   "tab_uloha10_3.png" 1631648449 134608 ff40c5839ea6d281f792abbe075e254d ""
   (generated)
-  "protokol_10.aux"
-  "/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.pdf"
   "protokol_10.pdf"
   "protokol_10.log"
   "/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.log"
+  "/Users/matej/Desktop/sarka_laborky/uloha_10/protokol_10.pdf"
+  "protokol_10.aux"

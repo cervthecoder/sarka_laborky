@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1627582159 "/Users/matej/Desktop/sarka_laborky/uloha_1/protokol_1.tex" "/Users/matej/Desktop/sarka_laborky/uloha_1/protokol_1.pdf" "protokol_1" 1627582160
-  "/Users/matej/Desktop/sarka_laborky/uloha_1/protokol_1.aux" 1627582160 68 b60d4aac83407227e643f08e02984f04 ""
-  "/Users/matej/Desktop/sarka_laborky/uloha_1/protokol_1.tex" 1627582158 8875 aef88ae4dffed74a63c216114e451999 ""
-  "/dev/null" 1627582156 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1631906685 "/Users/matej/Desktop/sarka_laborky/uloha_1/protokol_1.tex" "/Users/matej/Desktop/sarka_laborky/uloha_1/protokol_1.pdf" "protokol_1" 1631906688
+  "/Users/matej/Desktop/sarka_laborky/uloha_1/protokol_1.aux" 1631906687 68 b60d4aac83407227e643f08e02984f04 ""
+  "/Users/matej/Desktop/sarka_laborky/uloha_1/protokol_1.tex" 1631906685 9115 34eafad566d2753ce66e94ad319c7002 ""
+  "/dev/null" 1631906681 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -163,11 +163,11 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1581599076 4259636 259c94f1b81288296801f3810ee66f0b ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "protokol_1.aux" 1627582160 68 b60d4aac83407227e643f08e02984f04 "pdflatex"
-  "protokol_1.tex" 1627582158 8875 aef88ae4dffed74a63c216114e451999 ""
+  "protokol_1.aux" 1631906687 68 b60d4aac83407227e643f08e02984f04 "pdflatex"
+  "protokol_1.tex" 1631906685 9115 34eafad566d2753ce66e94ad319c7002 ""
   (generated)
+  "/Users/matej/Desktop/sarka_laborky/uloha_1/protokol_1.pdf"
   "protokol_1.aux"
+  "protokol_1.log"
   "protokol_1.pdf"
   "/Users/matej/Desktop/sarka_laborky/uloha_1/protokol_1.log"
-  "/Users/matej/Desktop/sarka_laborky/uloha_1/protokol_1.pdf"
-  "protokol_1.log"

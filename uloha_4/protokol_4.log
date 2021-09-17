@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  5 SEP 2021 14:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  17 SEP 2021 21:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -949,20 +949,20 @@ Package caption Info: End \AtBeginDocument code.
 <uloha_4_tab_1.png, id=4, 599.23875pt x 201.75375pt>
 File: uloha_4_tab_1.png Graphic file (type png)
 <use uloha_4_tab_1.png>
-Package pdftex.def Info: uloha_4_tab_1.png  used on input line 44.
+Package pdftex.def Info: uloha_4_tab_1.png  used on input line 48.
 (pdftex.def)             Requested size: 505.89pt x 170.3278pt.
 
-Overfull \hbox (43.36243pt too wide) in paragraph at lines 44--45
+Overfull \hbox (43.36243pt too wide) in paragraph at lines 48--49
  [][] 
  []
 
 <uloha_4_tab_2.png, id=6, 599.23875pt x 243.91125pt>
 File: uloha_4_tab_2.png Graphic file (type png)
 <use uloha_4_tab_2.png>
-Package pdftex.def Info: uloha_4_tab_2.png  used on input line 52.
+Package pdftex.def Info: uloha_4_tab_2.png  used on input line 56.
 (pdftex.def)             Requested size: 505.89pt x 205.9187pt.
 
-Overfull \hbox (43.36243pt too wide) in paragraph at lines 52--53
+Overfull \hbox (43.36243pt too wide) in paragraph at lines 56--57
  [][] 
  []
 
@@ -978,17 +978,17 @@ This may cause the page layout to be inconsistent, however.
 <uloha_4_tab_3.png, id=17, 613.29124pt x 238.8925pt>
 File: uloha_4_tab_3.png Graphic file (type png)
 <use uloha_4_tab_3.png>
-Package pdftex.def Info: uloha_4_tab_3.png  used on input line 58.
+Package pdftex.def Info: uloha_4_tab_3.png  used on input line 62.
 (pdftex.def)             Requested size: 505.89pt x 197.05957pt.
 
-Overfull \hbox (43.36243pt too wide) in paragraph at lines 58--59
+Overfull \hbox (43.36243pt too wide) in paragraph at lines 62--63
  [][] 
  []
 
 <teplota_tani_graf.png, id=18, 462.528pt x 346.896pt>
 File: teplota_tani_graf.png Graphic file (type png)
 <use teplota_tani_graf.png>
-Package pdftex.def Info: teplota_tani_graf.png  used on input line 65.
+Package pdftex.def Info: teplota_tani_graf.png  used on input line 69.
 (pdftex.def)             Requested size: 361.34999pt x 271.0277pt.
 
 Underfull \vbox (badness 5036) has occurred while \output is active []
@@ -997,13 +997,13 @@ Underfull \vbox (badness 5036) has occurred while \output is active []
 Here is how much of TeX's memory you used:
  27281 strings out of 492616
  539769 string characters out of 6129481
- 586956 words of memory out of 5000000
+ 587956 words of memory out of 5000000
  30852 multiletter control sequences out of 15000+600000
  534301 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,12n,69p,483b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on /Users/matej/Desktop/sarka_laborky/uloha_4/protokol_4.pdf (3 pages, 119673 bytes).
+Output written on /Users/matej/Desktop/sarka_laborky/uloha_4/protokol_4.pdf (3 pages, 120842 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream

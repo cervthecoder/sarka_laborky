@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  5 SEP 2021 14:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  17 SEP 2021 21:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -964,31 +964,39 @@ Package pdftex.def Info: uloha_9_tab_1.png  used on input line 76.
 <uloha_9_tab_2.png, id=17, 721.69624pt x 247.92625pt>
 File: uloha_9_tab_2.png Graphic file (type png)
 <use uloha_9_tab_2.png>
-Package pdftex.def Info: uloha_9_tab_2.png  used on input line 83.
+Package pdftex.def Info: uloha_9_tab_2.png  used on input line 85.
 (pdftex.def)             Requested size: 433.62pt x 148.96118pt.
 
 Underfull \vbox (badness 2197) has occurred while \output is active []
 
  [2 </Users/matej/Desktop/sarka_laborky/uloha_9/uloha_9_tab_1.png>]
-<uloha_9_tab_3.png, id=23, 721.69624pt x 247.92625pt>
+<uloha_9_graf_1.png, id=23, 789.95125pt x 474.77374pt>
+File: uloha_9_graf_1.png Graphic file (type png)
+<use uloha_9_graf_1.png>
+Package pdftex.def Info: uloha_9_graf_1.png  used on input line 91.
+(pdftex.def)             Requested size: 433.62pt x 260.612pt.
+<uloha_9_tab_3.png, id=24, 721.69624pt x 247.92625pt>
 File: uloha_9_tab_3.png Graphic file (type png)
 <use uloha_9_tab_3.png>
-Package pdftex.def Info: uloha_9_tab_3.png  used on input line 91.
+Package pdftex.def Info: uloha_9_tab_3.png  used on input line 97.
 (pdftex.def)             Requested size: 433.62pt x 148.96118pt.
- [3 </Users/matej/Desktop/sarka_laborky/uloha_9/uloha_9_tab_2.png> </Users/matej/Desktop/sarka_laborky/uloha_9/uloha_9_tab_3.png>] (/Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.aux) ) 
+
+Underfull \vbox (badness 3815) has occurred while \output is active []
+
+ [3 </Users/matej/Desktop/sarka_laborky/uloha_9/uloha_9_tab_2.png> </Users/matej/Desktop/sarka_laborky/uloha_9/uloha_9_graf_1.png> </Users/matej/Desktop/sarka_laborky/uloha_9/uloha_9_tab_3.png>] [4] (/Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.aux) ) 
 Here is how much of TeX's memory you used:
- 27294 strings out of 492616
- 539819 string characters out of 6129481
+ 27299 strings out of 492616
+ 539928 string characters out of 6129481
  590828 words of memory out of 5000000
- 30858 multiletter control sequences out of 15000+600000
+ 30862 multiletter control sequences out of 15000+600000
  536959 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,12n,69p,483b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,13n,69p,483b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on /Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.pdf (3 pages, 235388 bytes).
+Output written on /Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.pdf (4 pages, 302541 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 61 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

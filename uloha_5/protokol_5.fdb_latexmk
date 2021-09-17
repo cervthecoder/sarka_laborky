@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1631738372 "/Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.tex" "/Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.pdf" "protokol_5" 1631738375
-  "/Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.aux" 1631738374 68 b60d4aac83407227e643f08e02984f04 ""
-  "/Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.tex" 1631738372 6417 f37e477f2861fdbbfda56114128b65e4 ""
-  "/dev/null" 1631738333 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1631907562 "/Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.tex" "/Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.pdf" "protokol_5" 1631907565
+  "/Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.aux" 1631907565 68 b60d4aac83407227e643f08e02984f04 ""
+  "/Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.tex" 1631907561 6423 5fb5875859d835d1dea9e4a193b8febd ""
+  "/dev/null" 1631907565 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -159,8 +159,8 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1581599076 4259636 259c94f1b81288296801f3810ee66f0b ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "protokol_5.aux" 1631738374 68 b60d4aac83407227e643f08e02984f04 "pdflatex"
-  "protokol_5.tex" 1631738372 6417 f37e477f2861fdbbfda56114128b65e4 ""
+  "protokol_5.aux" 1631907565 68 b60d4aac83407227e643f08e02984f04 "pdflatex"
+  "protokol_5.tex" 1631907561 6423 5fb5875859d835d1dea9e4a193b8febd ""
   "uloha_5_graf_1.png" 1631734729 105641 fa1d9ab3cf101e21d59aa111444bf8e7 ""
   "uloha_5_graf_2.png" 1631735276 128814 e51e4bba3940f61cba28bc00b93167ba ""
   "uloha_5_tab_1.png" 1631734091 34729 6fb57e82503fb223e9515e0b690654d5 ""
@@ -168,8 +168,8 @@
   "uloha_5_tab_3.png" 1631735665 9508 e0a3f62576d183bb9191730f7290143c ""
   "uloha_5_tab_4.png" 1631735777 25694 5543485386bf94f901c25bef379c4c54 ""
   (generated)
-  "/Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.pdf"
-  "/Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.log"
   "protokol_5.pdf"
   "protokol_5.aux"
+  "/Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.log"
+  "/Users/matej/Desktop/sarka_laborky/uloha_5/protokol_5.pdf"
   "protokol_5.log"

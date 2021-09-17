@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1630846483 "/Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.tex" "/Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.pdf" "protokol_9" 1630846486
-  "/Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.aux" 1630846486 68 b60d4aac83407227e643f08e02984f04 ""
-  "/Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.tex" 1630846482 5089 f5bac1365401d33de97ab7cf5ac70996 ""
-  "/dev/null" 1630846466 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1631907820 "/Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.tex" "/Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.pdf" "protokol_9" 1631907823
+  "/Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.aux" 1631907822 68 b60d4aac83407227e643f08e02984f04 ""
+  "/Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.tex" 1631907819 5232 2b987c09fc5a078d90af37549d103c5f ""
+  "/dev/null" 1631907803 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -158,14 +158,15 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1581599076 4259636 259c94f1b81288296801f3810ee66f0b ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "protokol_9.aux" 1630846486 68 b60d4aac83407227e643f08e02984f04 "pdflatex"
-  "protokol_9.tex" 1630846482 5089 f5bac1365401d33de97ab7cf5ac70996 ""
+  "protokol_9.aux" 1631907822 68 b60d4aac83407227e643f08e02984f04 "pdflatex"
+  "protokol_9.tex" 1631907819 5232 2b987c09fc5a078d90af37549d103c5f ""
+  "uloha_9_graf_1.png" 1631907695 108665 bb9635f1b06d5c17c508520062a833eb ""
   "uloha_9_tab_1.png" 1630055715 135166 f2a07e1600f26c6bc9c277be6907e68f ""
   "uloha_9_tab_2.png" 1630056975 62439 5508fd3a90b2ba073794cad29275b85f ""
   "uloha_9_tab_3.png" 1630057136 59219 b8df564cae48a8b21a6bcd10277c710a ""
   (generated)
+  "protokol_9.log"
   "/Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.log"
+  "protokol_9.aux"
   "protokol_9.pdf"
   "/Users/matej/Desktop/sarka_laborky/uloha_9/protokol_9.pdf"
-  "protokol_9.aux"
-  "protokol_9.log"

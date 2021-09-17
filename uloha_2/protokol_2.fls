@@ -190,6 +190,12 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/chemfig/chemfig.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/chemfig/chemfig.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/chemfig/chemfig.tex
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/simplekv/simplekv.tex
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
@@ -245,6 +251,9 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/matej/Desktop/sarka_laborky/uloha_2/uloha_2_tab_1.png
+INPUT /Users/matej/Desktop/sarka_laborky/uloha_2/uloha_2_tab_1.png
+INPUT /Users/matej/Desktop/sarka_laborky/uloha_2/uloha_2_tab_1.png
 INPUT /Users/matej/Desktop/sarka_laborky/uloha_2/protokol_2.aux
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb

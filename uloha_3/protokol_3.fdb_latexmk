@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1630846178 "/Users/matej/Desktop/sarka_laborky/uloha_3/protokol_3.tex" "/Users/matej/Desktop/sarka_laborky/uloha_3/protokol_3.pdf" "protokol_3" 1630846180
-  "/Users/matej/Desktop/sarka_laborky/uloha_3/protokol_3.aux" 1630846179 68 b60d4aac83407227e643f08e02984f04 ""
-  "/Users/matej/Desktop/sarka_laborky/uloha_3/protokol_3.tex" 1630846177 6458 ea3aa00ae4232e4f32ba23dd7d76594f ""
-  "/dev/null" 1630846169 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1631907410 "/Users/matej/Desktop/sarka_laborky/uloha_3/protokol_3.tex" "/Users/matej/Desktop/sarka_laborky/uloha_3/protokol_3.pdf" "protokol_3" 1631907411
+  "/Users/matej/Desktop/sarka_laborky/uloha_3/protokol_3.aux" 1631907411 68 b60d4aac83407227e643f08e02984f04 ""
+  "/Users/matej/Desktop/sarka_laborky/uloha_3/protokol_3.tex" 1631907409 6458 ea3aa00ae4232e4f32ba23dd7d76594f ""
+  "/dev/null" 1631907383 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -160,12 +160,12 @@
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
   "kys_nez.png" 1629803250 18629 12ecf801afe43d468a4967549df52ec5 ""
   "kys_stav.png" 1629803220 24383 bf79ca5e8c2c4bf25d8f0938ac40bbbb ""
-  "protokol_3.aux" 1630846179 68 b60d4aac83407227e643f08e02984f04 "pdflatex"
-  "protokol_3.tex" 1630846177 6458 ea3aa00ae4232e4f32ba23dd7d76594f ""
-  "titracni_krivka.png" 1629801591 17760 0bbc6bfd900429901876fd62a9296eba ""
+  "protokol_3.aux" 1631907411 68 b60d4aac83407227e643f08e02984f04 "pdflatex"
+  "protokol_3.tex" 1631907409 6458 ea3aa00ae4232e4f32ba23dd7d76594f ""
+  "titracni_krivka.png" 1631907328 19963 fb8a404cb09d7f7de372068adbdcdae1 ""
   (generated)
+  "/Users/matej/Desktop/sarka_laborky/uloha_3/protokol_3.log"
+  "protokol_3.aux"
   "/Users/matej/Desktop/sarka_laborky/uloha_3/protokol_3.pdf"
   "protokol_3.log"
-  "protokol_3.aux"
-  "/Users/matej/Desktop/sarka_laborky/uloha_3/protokol_3.log"
   "protokol_3.pdf"
